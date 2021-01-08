@@ -1,0 +1,37 @@
+[
+    {
+      "id":0,
+      "name":"Ramen",
+      "url":"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/turkey-ramen-a345060.jpg"
+    },
+    {
+      "id":1,
+      "name":"Épicerie fine",
+      "url":"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/smoked-mackerel-2910ff3.jpg"
+    },
+    {
+      "id":2,
+      "name":"Japonais",
+      "url":"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/bento-3704d07.jpg"
+    },
+    {
+      "id":3,
+      "name":"Américain",
+      "url":"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/15-minute-chicken-halloumi-burgers-ef95d1d.jpg"
+    },
+    {
+      "id":4,
+      "name":"Pâtes",
+      "url":"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/seafood_pasta-f15956d.jpg"
+    },
+    {
+      "id":5,
+      "name":"Cuisine saine",
+      "url":"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/healthy-porridge-6e13048.jpg"
+    },
+    {
+      "id":6,
+      "name":"Poulet",
+      "url":"https://images.immediate.co.uk/production/volatile/sites/30/2020/10/chicken-inasal-a7da875.jpg"
+    }
+  ]
