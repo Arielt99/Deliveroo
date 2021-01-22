@@ -72,4 +72,4 @@ buck-out/
 babel.config.js
 metro.config.js
 react-native.config.js
-package.json
+package-lock.json
